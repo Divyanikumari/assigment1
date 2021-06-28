@@ -1,0 +1,447 @@
+[
+    {
+        "_id": "c-05",
+        "_parentId": "b-05",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Justin Joins Supersonic Maintenance",
+        "displayTitle": "Justin Joins Supersonic Maintenance",
+        "body": "This is optional body text.",
+        "instruction": "Select the play button to start the video.",
+        "_comment": "_setCompletionOn = inview | play | ended",
+        "_setCompletionOn": "play",
+        "_useClosedCaptions": true,
+        "_allowFullScreen": true,
+        "_pauseWhenOffScreen": false,
+        "_playsinline": false,
+        "_preventForwardScrubbing": false,
+        "_startLanguage": "en",
+        "_showVolumeControl": true,
+        "_startVolume": "80%",
+        "_media": {
+            "mp4": "course/en/video/c-40.mp4",
+            "poster": "course/en/video/c-40.jpg",
+            "cc": [
+                {
+                    "srclang": "en",
+                    "src": "course/en/video/c-40.vtt"
+                },
+                {
+                    "srclang": "pl",
+                    "src": "course/en/video/c-40.vtt"
+                }
+            ]
+        },
+        "_transcript": {
+            "_setCompletionOnView": true,
+            "_inlineTranscript": true,
+            "_externalTranscript": false,
+            "inlineTranscriptButton": "Transcript",
+            "inlineTranscriptCloseButton": "Close Transcript",
+            "inlineTranscriptBody": "<p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p>",
+            "transcriptLinkButton": "Transcript",
+            "transcriptLink": "assets/transcript.pdf"
+        },
+        "_playerOptions": {
+            "poster": "",
+            "showPosterWhenEnded": false,
+            "defaultVideoWidth": 480,
+            "defaultVideoHeight": 270,
+            "videoWidth": -1,
+            "videoHeight": -1,
+            "defaultAudioWidth": 400,
+            "defaultAudioHeight": 30,
+            "defaultSeekBackwardInterval": "(media.duration * 0.05)",
+            "defaultSeekForwardInterval": "(media.duration * 0.05)",
+            "audioWidth": -1,
+            "audioHeight": -1,
+            "startVolume": 0.8,
+            "loop": false,
+            "autoRewind": true,
+            "enableAutosize": true,
+            "alwaysShowHours": false,
+            "showTimecodeFrameCount": false,
+            "framesPerSecond": 25,
+            "autosizeProgress": true,
+            "alwaysShowControls": false,
+            "hideVideoControlsOnLoad": false,
+            "clickToPlayPause": true,
+            "iPadUseNativeControls": false,
+            "iPhoneUseNativeControls": false,
+            "AndroidUseNativeControls": false,
+            "features": [
+                "playpause",
+                "current",
+                "progress",
+                "duration",
+                "tracks",
+                "volume",
+                "fullscreen"
+            ],
+            "isVideo": true,
+            "enableKeyboard": true,
+            "pauseOtherPlayers": true,
+            "startLanguage": "",
+            "tracksText": "mejs.i18n.t('Captions/Subtitles')",
+            "hideCaptionsButtonWhenEmpty": true,
+            "toggleCaptionsButtonWhenOnlyOne": false,
+            "slidesSelector": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-06",
+        "_parentId": "b-10",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "left",
+        "title": "Here is a graphic object",
+        "displayTitle": "",
+        "body": "<p class='text1'>What do you think of Jack’s attitude?</p><p class='text1'>What do you think of Jack’s attitude?</p><p class='text1'>What do you think of Jack’s attitude?</p>",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Placeholder graphic",
+            "large": "course/en/images/JackImage.png",
+            "small": "course/en/images/JackImage.png",
+            "attribution": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-07",
+        "_parentId": "b-10",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Title of the media component",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_comment": "_setCompletionOn = inview | play | ended",
+        "_setCompletionOn": "play",
+        "_useClosedCaptions": true,
+        "_allowFullScreen": true,
+        "_pauseWhenOffScreen": false,
+        "_playsinline": false,
+        "_preventForwardScrubbing": false,
+        "_startLanguage": "en",
+        "_showVolumeControl": true,
+        "_startVolume": "80%",
+        "_media": {
+            "mp3": "course/en/video/Voice2.mp3",
+            "poster": "",
+            "cc": [
+                {
+                    "srclang": "en",
+                    "src": ""
+                }
+              
+            ]
+        },
+        "_transcript": {
+            "_setCompletionOnView": true,
+            "_inlineTranscript": true,
+            "_externalTranscript": false,
+            "inlineTranscriptButton": "Transcript",
+            "inlineTranscriptCloseButton": "Close Transcript",
+            "inlineTranscriptBody": "<p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p>",
+            "transcriptLinkButton": "Transcript",
+            "transcriptLink": "assets/transcript.pdf"
+        }
+    },
+
+    {
+        "_id": "c-08",
+        "_parentId": "b-12",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Title of the media component",
+        "displayTitle": "Staff Interviews",
+        "body": "Let’s watch what some colleagues said about this.",
+        "instruction": "",
+        "_comment": "_setCompletionOn = inview | play | ended",
+        "_setCompletionOn": "play",
+        "_useClosedCaptions": true,
+        "_allowFullScreen": true,
+        "_pauseWhenOffScreen": false,
+        "_playsinline": false,
+        "_preventForwardScrubbing": false,
+        "_startLanguage": "en",
+        "_showVolumeControl": true,
+        "_startVolume": "80%",
+        "_media": {
+            "mp3": "course/en/video/Voice2.mp3",
+            "poster": "",
+            "cc": [
+                {
+                    "srclang": "en",
+                    "src": ""
+                }
+              
+            ]
+        },
+        "_transcript": {
+            "_setCompletionOnView": true,
+            "_inlineTranscript": true,
+            "_externalTranscript": false,
+            "inlineTranscriptButton": "Transcript",
+            "inlineTranscriptCloseButton": "Close Transcript",
+            "inlineTranscriptBody": "<p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p><p> <b> Martha </b>:  Ah, there you are Jack! Jack, this is Justin.  He has just joined us from Speed-of-Light maintenance.</p>",
+            "transcriptLinkButton": "Transcript",
+            "transcriptLink": "assets/transcript.pdf"
+        },
+        "_playerOptions": {
+            "poster": "",
+            "showPosterWhenEnded": false,
+            "defaultVideoWidth": 480,
+            "defaultVideoHeight": 270,
+            "videoWidth": -1,
+            "videoHeight": -1,
+            "defaultAudioWidth": 400,
+            "defaultAudioHeight": 30,
+            "defaultSeekBackwardInterval": "(media.duration * 0.05)",
+            "defaultSeekForwardInterval": "(media.duration * 0.05)",
+            "audioWidth": -1,
+            "audioHeight": -1,
+            "startVolume": 0.8,
+            "loop": false,
+            "autoRewind": true,
+            "enableAutosize": true,
+            "alwaysShowHours": false,
+            "showTimecodeFrameCount": false,
+            "framesPerSecond": 25,
+            "autosizeProgress": true,
+            "alwaysShowControls": false,
+            "hideVideoControlsOnLoad": false,
+            "clickToPlayPause": true,
+            "iPadUseNativeControls": false,
+            "iPhoneUseNativeControls": false,
+            "AndroidUseNativeControls": false,
+            "features": [
+                "playpause",
+                "current",
+                "progress",
+                "duration",
+                "tracks",
+                "volume",
+                "fullscreen"
+            ],
+            "isVideo": true,
+            "enableKeyboard": true,
+            "pauseOtherPlayers": true,
+            "startLanguage": "",
+            "tracksText": "mejs.i18n.t('Captions/Subtitles')",
+            "hideCaptionsButtonWhenEmpty": true,
+            "toggleCaptionsButtonWhenOnlyOne": false,
+            "slidesSelector": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-13",
+        "_parentId": "b-12",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Title of the media component",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_comment": "_setCompletionOn = inview | play | ended",
+        "_setCompletionOn": "play",
+        "_useClosedCaptions": true,
+        "_allowFullScreen": true,
+        "_pauseWhenOffScreen": false,
+        "_playsinline": false,
+        "_preventForwardScrubbing": false,
+        "_startLanguage": "en",
+        "_showVolumeControl": true,
+        "_startVolume": "80%",
+        "_media": {
+            "mp4": "course/en/video/Staff.mp4",
+            "poster": "course/en/images/staff.png",
+            "cc": [
+                {
+                    "srclang": "en",
+                    "src": ""
+                }
+            ]
+        },
+        "_transcript": {
+            "_setCompletionOnView": true,
+            "_inlineTranscript": true,
+            "_externalTranscript": false,
+            "inlineTranscriptButton": "Transcript",
+            "inlineTranscriptCloseButton": "Close Transcript",
+            "inlineTranscriptBody": "<p> <b> Vin Dixon (Quality Manager, Derby) </b>:   The other side where we could improve is the communication the feedback to Rolls-Royce employees following investigation.  We tend to talk to the regulators and to the customers about these issues, but we can always improve the communication that we give to the employees of Rolls-Royce.</p><p> <b> Stephen Bramfitt- Reid (Safety Manager-Airworthiness, MRO, Derby) </b>:  People do make mistakes, we need to make sure those mistakes don’t result in consequences in the field, there can be issues ranging from customer complaints, quality issues and at the very severe end it can affect product safety.  It can result in oil leaks, fuel leaks etc.  We’ve seen that happen and the consequences of it. </p><p> <b> Tom Culpan (MARS Investigator, Derby) </b>: Personally I feel that our products;  we have so many security checks, inspections in place which we make sure, to the best of our ability, that our product goes out as safe as possible, but I’m not going to say that we are perfect.  There are always ways we can improve, it could be more checks it could be more adhering to processes, but again that’s something for the future just to look at.</p><p> <b>Vin Dixon (Quality Manager, Derby) </b>: I think the most important thing to product safety is awareness within the workforce, both awareness of what product safety means in terms of making the product safe both for the business and for the customers but also understanding the accountability and responsibility of each and every member the team has, regarding product safety.</p><p> <b> Alex McMillan (Managing Director, EK)  </b>:  I think ultimately, we, as I often say fly people 30 40 thousand feet in the air.  From one point of the globe to another point at 4-5-6 hundred miles an hour.  So I think it goes without saying that our product safety is absolutely paramount.  And I guess it’s in every part of every aspect of every job that we do.</p><p><b>Jon Croker (Manufacturing Manager, Bristol)</b> People who use our products trust us to ensure that they are safe when they use those products.  I mean so that an absolute basic moral requirement that we have, an ethical requirement that we have is to ensure that people are safe when they use our products.  As well as that we’ve also got the implication of what unsafe events can have to our reputation as a company. </p>",
+            "transcriptLinkButton": "Transcript",
+            "transcriptLink": "assets/transcript.pdf"
+        },
+        "_playerOptions": {
+            "poster": "",
+            "showPosterWhenEnded": false,
+            "defaultVideoWidth": 480,
+            "defaultVideoHeight": 270,
+            "videoWidth": -1,
+            "videoHeight": -1,
+            "defaultAudioWidth": 400,
+            "defaultAudioHeight": 30,
+            "defaultSeekBackwardInterval": "(media.duration * 0.05)",
+            "defaultSeekForwardInterval": "(media.duration * 0.05)",
+            "audioWidth": -1,
+            "audioHeight": -1,
+            "startVolume": 0.8,
+            "loop": false,
+            "autoRewind": true,
+            "enableAutosize": true,
+            "alwaysShowHours": false,
+            "showTimecodeFrameCount": false,
+            "framesPerSecond": 25,
+            "autosizeProgress": true,
+            "alwaysShowControls": false,
+            "hideVideoControlsOnLoad": false,
+            "clickToPlayPause": true,
+            "iPadUseNativeControls": false,
+            "iPhoneUseNativeControls": false,
+            "AndroidUseNativeControls": false,
+            "features": [
+                "playpause",
+                "current",
+                "progress",
+                "duration",
+                "tracks",
+                "volume",
+                "fullscreen"
+            ],
+            "isVideo": true,
+            "enableKeyboard": true,
+            "pauseOtherPlayers": true,
+            "startLanguage": "",
+            "tracksText": "mejs.i18n.t('Captions/Subtitles')",
+            "hideCaptionsButtonWhenEmpty": true,
+            "toggleCaptionsButtonWhenOnlyOne": false,
+            "slidesSelector": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-14",
+        "_parentId": "b-14",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "left",
+        "title": "Here is a graphic object",
+        "displayTitle": "",
+        "body": "<p class='text01'>Where do you think Rolls-Royce needs to improve product safety even more?</p><p class='text01'>What do you think is important for product safety?</p>",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Placeholder graphic",
+            "large": "course/en/images/GirlImage.png",
+            "small": "course/en/images/GirlImage.png",
+            "attribution": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-15",
+        "_parentId": "b-15",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "title": "MCQ",
+        "displayTitle": "MCQ",
+        "body": "Which of the following options would you consider to be correct?",
+        "instruction": "",
+        "_attempts": 1,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": false,
+        "_questionWeight": 1,
+        "_selectable": 1,
+        "_canShowModelAnswer": true,
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_recordInteraction": true,
+        "_items": [
+            {
+                "text": "This is option 1 (Correct)",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "This is option 2",
+                "_shouldBeSelected": false,
+                "feedback": "Option two incorrect feedback"
+            },
+            {
+                "text": "This is option 3",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "This is option 4",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "title": "Feedback",
+            "correct": "Congratulations, this is the correct feedback.",
+            "_incorrect": {
+                "notFinal": "",
+                "final": "This feedback will appear if you answered the question incorrectly."
+            },
+            "_partlyCorrect": {
+                "notFinal": "",
+                "final": "This feedback will appear if you answered the question correctly."
+            }
+        },
+        "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+        "_buttons": {
+            "_submit": {
+                "buttonText": "Submit",
+                "ariaLabel": "Select here to submit your answer."
+            },
+            "_reset": {
+                "buttonText": "Reset",
+                "ariaLabel": ""
+            },
+            "_showCorrectAnswer": {
+                "buttonText": "Correct Answer",
+                "ariaLabel": ""
+            },
+            "_hideCorrectAnswer": {
+                "buttonText": "My Answer",
+                "ariaLabel": ""
+            },
+            "_showFeedback": {
+                "buttonText": "Show feedback",
+                "ariaLabel": ""
+            },
+            "remainingAttemptsText": "attempts remaining",
+            "remainingAttemptText": "final attempt"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }
+    
+  
+
+]

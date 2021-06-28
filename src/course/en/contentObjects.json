@@ -1,0 +1,28 @@
+[
+    {
+        "_id": "co-05",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Presentation Components",
+        "displayTitle": "",
+        "body": "<h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>",
+        "pageBody": "",
+        "instruction": "<h3>Scroll down to see what presentation components are available as part of the v5 core bundle.</h3>",
+        "_graphic": {
+            "src": "course/en/images/menu-item.png",
+            "alt": ""
+        },
+        "linkText": "View",
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    }
+    
+
+]
